@@ -4,7 +4,7 @@ Bonjour à tous, voici le site du mariage où vous trouverez toutes les informat
 
 ## Pour les invités arrivant en train depuis Paris
 
-- Pour réserver votre billet de train, allez sur https://www.sncf-connect.com/.
+- Pour réserver votre billet de train, allez sur [https://www.sncf-connect.com/](https://www.sncf-connect.com/)
 - Sélectionnez Paris Saint Lazare comme lieu de départ et Gaillon-Aubevoye comme lieu d'arrivée.
 - La date de départ est le samedi 3 juin.
 - Nous vous recommandons de choisir un départ à partir de 9h00, par exemple.
@@ -13,7 +13,7 @@ Bonjour à tous, voici le site du mariage où vous trouverez toutes les informat
 
 ### Pour rentrer à Paris
 
- - Allez sur https://www.sncf.com/fr.
+ - Allez sur [https://www.sncf-connect.com/](https://www.sncf-connect.com/)
  - Sélectionnez Gaillon-Aubevoye comme lieu de départ et Paris Saint Lazare comme lieu d'arrivée.
  - Sélectionnez l'horaire du dimanche 4 juin suivant.
 
@@ -40,9 +40,12 @@ Les bus sont également disponibles. Vous pouvez consulter https://www.rome2rio.
 - Prenez l'autoroute A13 et sortez à la sortie 17.
 - Suivez la D316 et la D313 pour arriver aux Domaines de Gaston.
 
-Le trajet dure environ 1h15.
+ou 
+- Prenez l'A15 et D14
 
-##Remarque :
+Le trajet dure environ 1h15 / 1h30.
+
+## Remarque
 
 Si vous n'avez pas de voiture, de taxi ou de bus, nos amis qui se rendront en voiture pourront vous aider à transporter vos bagages de la gare de Gaillon-Aubevoye aux Domaines de Gaston et vice versa. 
 
