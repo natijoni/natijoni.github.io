@@ -30,12 +30,14 @@ Bonjour à tous, voici le site du mariage où vous trouverez toutes les informat
 
 Les taxis suivants sont disponibles : 
 
-- [ABC Taxi](tel:+33607018350 / tel:+33608373687) (06 07 01 83 50 / 06 08 37 36 87)
-- [Taxi Vallée de l'Eure](tel:+33685209124) (06 85 20 91 24)
-- [Jean Marc Taxi](tel:+33232532375) (02 32 53 23 75)
-- [Taxi Courcellois](tel:+33681293873) (06 81 29 38 73)
-- [Taxi Evreux Maryline](tel:+33670533669) (06 70 53 36 69)
-- [Taxi Pour Tous Evreux](tel:+33683632108) (06 83 63 21 08)
+- [Taxi M. Messaoudi 07 81 39 17 70](tel:0781391770)  
+- [Taxi Lucson - Les Andelys 06 51 21 56 48](tel:0651215648)  
+- [Taxi Duchesne - Les Andelys 06 83 54 71 82](tel:0683547182)  
+- [Taxi JF 07 49 19 26 17](tel:0749192617)  
+- [Taxi ABC - contact 1 06 07 01 83 50](tel:0607018350)  
+- [Taxi ABC - contact 2 06 74 64 04 13](tel:0674640413)  
+- [Taxi Beuriot 06 43 02 69 82](tel:0643026982)  
+- [Taxi M.N Transport - 7 places 07 69 26 26 32](tel:0769262632)
 
 Les bus sont également disponibles. Vous pouvez consulter https://www.rome2rio.com/fr/map/Gaillon/Les-Andelys pour plus d'informations.
 
