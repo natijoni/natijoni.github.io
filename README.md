@@ -1,4 +1,4 @@
-# Mariage Natalia et Jonathan
+# Informations
 
 Bonjour à tous, voici le site du mariage où vous trouverez toutes les informations nécessaires pour parvenir au mariage 
 
@@ -49,3 +49,9 @@ Le trajet dure environ 1h15 / 1h30.
 
 Si vous n'avez pas de voiture, de taxi ou de bus, nos amis qui se rendront en voiture pourront vous aider à transporter vos bagages de la gare de Gaillon-Aubevoye aux Domaines de Gaston et vice versa. 
 
+## Cagnotte 
+
+Chers amis et famille, nous sommes ravis de partager notre journée spéciale avec vous tous. Comme vous le savez peut-être, nous aimerions faire un joli road trip à travers toute l'Ecosse et sa fameuse North Coast 500. Nous avons donc créé cette cagnotte de mariage pour nous aider à réaliser ce rêve. Nous sommes tellement reconnaissants de votre soutien et de votre générosité. Merci d'avance pour votre contribution et de nous aider à réaliser notre aventure écossaise !
+Avec mucho cariño, Natalia et Jonathan
+
+[Notre cagnotte](https://www.lepotcommun.fr/pot/czbn61c4)
