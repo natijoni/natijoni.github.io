@@ -2,6 +2,10 @@
 
 Bonjour à tous, voici le site du mariage où vous trouverez toutes les informations nécessaires pour parvenir au mariage 
 
+- [Trains](#pour-les-invités-arrivant-en-train-depuis-paris)
+- [Taxi](#pour-se-rendre-des-domaines-de-gaston-à-la-gare-de-gaillon-)
+- [Cagnotte](#cagnotte)
+
 ## Pour les invités arrivant en train depuis Paris
 
 - Pour réserver votre billet de train, allez sur [https://www.sncf-connect.com/](https://www.sncf-connect.com/)
@@ -48,6 +52,8 @@ Le trajet dure environ 1h15 / 1h30.
 ## Remarque
 
 Si vous n'avez pas de voiture, de taxi ou de bus, nos amis qui se rendront en voiture pourront vous aider à transporter vos bagages de la gare de Gaillon-Aubevoye aux Domaines de Gaston et vice versa. 
+
+Pensez à l'anti moustique, on est au bord de la Seine, crème solaire et une petite laine pour la nuit le manoir étant bien isolé. 
 
 ## Cagnotte 
 
