@@ -39,7 +39,7 @@ Les taxis suivants sont disponibles :
 - [Taxi Beuriot 06 43 02 69 82](tel:0643026982)  
 - [Taxi M.N Transport - 7 places 07 69 26 26 32](tel:0769262632)
 
-Les bus sont également disponibles. Vous pouvez consulter https://www.rome2rio.com/fr/map/Gaillon/Les-Andelys pour plus d'informations.
+Les bus sont également disponibles. Vous pouvez consulter [https://www.rome2rio.com/fr/map/Gaillon/Les-Andelys](https://www.rome2rio.com/fr/map/Gaillon/Les-Andelys) pour plus d'informations.
 
 ## Pour ceux qui viennent en voiture depuis Paris :
 
