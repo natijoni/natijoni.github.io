@@ -1,6 +1,6 @@
 # Informations
 
-Bonjour à tous, voici le site du mariage où vous trouverez toutes les informations nécessaires pour parvenir au mariage 
+Bonjour à tous, voici le site du mariage où vous trouverez toutes les informations nécessaires pour parvenir au mariage notez que celui-ci débutera à *18h* ce samedi 3 juin.
 
 - [Trains](#pour-les-invités-arrivant-en-train-depuis-paris)
 - [Taxi](#pour-se-rendre-des-domaines-de-gaston-à-la-gare-de-gaillon-)
@@ -13,7 +13,7 @@ Bonjour à tous, voici le site du mariage où vous trouverez toutes les informat
 - La date de départ est le samedi 3 juin.
 - Nous vous recommandons de choisir un départ à partir de 9h00, par exemple.
 - Réservez votre train et remplissez les informations demandées pour voir les prix.
-- Nous vous recommandons de choisir l'itinéraire proposé à partir de 10:11 afin de profiter de la journée près des bords de Seine.
+- Nous vous recommandons de choisir l'itinéraire proposé à partir de 10:11 afin de profiter de la journée près des bords de Seine. Notez aussi que pour cette journée des travaux sont prévus sur la ligne de train, diminuant le nombre de trains disponibles.
 
 ### Pour rentrer à Paris
 
