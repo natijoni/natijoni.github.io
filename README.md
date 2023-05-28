@@ -1,4 +1,4 @@
-# Informations
+# ![](/docs/assets/img/mini.png) Informations
 
 Bonjour à tous, voici le site du mariage où vous trouverez toutes les informations nécessaires pour parvenir au mariage notez que celui-ci débutera à *18h* ce samedi 3 juin.
 
